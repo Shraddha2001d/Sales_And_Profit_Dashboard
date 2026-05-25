@@ -13,7 +13,7 @@ The dataset contains transactional sales data with the following information:
 - Customer Name
 - State/Region
 - Year and Month
-The data was cleaned and structured before being used for dashboard creation.
+#### The data was cleaned and structured before being used for dashboard creation.
 ## 🛠️ Tools and Technologies Used
 - Microsoft Excel
 - Pivot Tables
@@ -44,8 +44,9 @@ The data was cleaned and structured before being used for dashboard creation.
 - Sales by State (Map)
 - Top 5 Customers by Profit
 - Monthly Sales Trend
-The dashboard updates dynamically based on user selections, enabling quick and effective analysis.
+#### The dashboard updates dynamically based on user selections, enabling quick and effective analysis.
 <img width="1009" height="610" alt="Screenshot 2026-05-25 235102" src="https://github.com/user-attachments/assets/8b99bf92-c98f-41a6-ab76-b3bca0b2a7ef" />
+
 ## 💡 Key Insights
 - Achieved ₹19.28 Lakhs in total sales and ₹2.48 Lakhs in total profit.
 - Technology category generated the highest profit among all categories.
